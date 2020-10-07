@@ -31,10 +31,11 @@ header nav ul li a {
 }
 header nav ul li a span {
     margin-top: 10px;
-}
-/* FIN HEADER */
+} /* FIN HEADER */
 
 /* Banner */
 .banner img{
     width: 100%;
-}
+} /* Fin Banner */
+
+/* Contenu section 1 */
