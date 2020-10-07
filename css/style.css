@@ -41,14 +41,48 @@ header nav ul li a span {
 /* Contenu section 1 */
 .contenu1{
     display: flex;
-    /* justify-content: space-around; */
-    /* width: 90%; */
 }
 .contenu1 div{
     margin: 40px 70px;
 }
 .contenu1 div:nth-of-type(2){
     margin-right: 10%;
+} 
+.contenu1 div:last-of-type>h2{
+    margin-top: 0%;
 } /* Fin - Contenu section 1 */
 
 /*  Contenu section 2 */
+.contenu2{
+    background-color: rgb(47, 47, 65);
+    color: white;
+    /* padding: 50px; */
+}
+.titreP{
+    display: flex;
+    justify-content: space-around;
+    /* margin-bottom: 20px; */
+}
+.titreP div{
+    margin: 10px 0px;
+    border: white solid;
+}
+.images{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    border: white solid;
+}
+.images div{
+    margin: 0% 50px;
+    line-height: 1.5;
+}
+.images button{
+    color: rgb(47, 47, 65);
+    font-weight: bolder;
+    border-radius: 0%;
+    border: none;
+    padding: 10px 25px;
+}
+/*  Fin Contenu section 2 */
+
