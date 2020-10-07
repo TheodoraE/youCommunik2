@@ -32,3 +32,9 @@ header nav ul li a {
 header nav ul li a span {
     margin-top: 10px;
 }
+/* FIN HEADER */
+
+/* Banner */
+.banner img{
+    width: 100%;
+}
