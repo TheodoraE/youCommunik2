@@ -108,3 +108,39 @@ h1{
     color: white;
 } /* Fin Contenu 3 */
 
+/* Footer */
+footer{
+    height: 260px;
+    background-color: rgb(56, 53, 53);
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+h3{
+    margin: 0%;
+    width: 300px;
+    padding-left: 20px;
+}
+footer img{
+    height: 60px;
+}
+
+.packs, .outils{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 300px;
+    margin-top: 50px;
+    height: 180px;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 200px;
+    margin-top: 50px;
+    height: 180px;
+}
