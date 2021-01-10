@@ -33,10 +33,12 @@ header nav ul li a span {
     margin-top: 10px;
 } /* FIN HEADER */
 
+
 /* Banner */
 .banner img{
     width: 100%;
 } /* Fin Banner */
+
 
 /* Contenu section 1 */
 .contenu1{
@@ -51,6 +53,7 @@ header nav ul li a span {
 .contenu1 div:last-of-type>h2{
     margin-top: 0%;
 } /* Fin - Contenu section 1 */
+
 
 /*  Contenu section 2 */
 .contenu2{
@@ -73,7 +76,6 @@ header nav ul li a span {
 h1{
     font-size: 3em;
 }
-
         /* Section 2 partie 2 - images */
 .images{
     display: flex;
@@ -108,6 +110,7 @@ h1{
     color: white;
 } /* Fin Contenu 3 */
 
+
 /* Footer */
 footer{
     height: 260px;
@@ -118,7 +121,6 @@ footer{
     justify-content: space-around;
     align-content: center;
 }
-
 h3{
     margin: 0%;
     width: 300px;
@@ -127,7 +129,6 @@ h3{
 footer img{
     height: 60px;
 }
-
 .packs, .outils{
     display: flex;
     justify-content: space-around;
